@@ -1,7 +1,7 @@
 ---
 title: "Recuento"
 date: 2022-04-09
-description: 'Descripción de tu blog post'
+description: 'Aprendizaje en el trayecto c:'
 ---
 
 Antes de iniciar el curso de Launch X, tenía ya experiencia en desarrollo web con cursos en angular y react, no obstante, cada vez que finalizo un curso
