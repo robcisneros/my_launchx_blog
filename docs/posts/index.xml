@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://robcisneros.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Recuento</title>
+      <link>https://robcisneros.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://robcisneros.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Antes de iniciar el curso de Launch X, tenía ya experiencia en desarrollo web con cursos en angular y react, no obstante, cada vez que finalizo un curso aprendo cosas nuevas y al mismo tiempo estoy conciente de que desconozco aún más tecnologías, es por ello que el aprendizaje nunca termina. Ahora puedo decir con seguridad que he mejorado mis skills en frontend con las prácticas de pokedex, el wallpaper de vaccination, al usar un framework como vue durannte el curso puedo tomarlo como segundo main framework para mí, ya que me siento más cómodo utilizando react.</description>
+    </item>
+    
+    <item>
       <title>Aprendizaje durante Backend Mission</title>
       <link>https://robcisneros.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
