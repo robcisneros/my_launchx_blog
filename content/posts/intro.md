@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje durante Backend Mission"
-date: 2022-02-21T18:16:21-06:00
-description: 'Primer post. '
+date: 2022-03-08
+description: 'Expectativas Backend Mission. '
 ---
 ¡Hallo Welt!
 
